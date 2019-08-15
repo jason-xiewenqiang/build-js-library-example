@@ -1,0 +1,19 @@
+{
+  "name": "deep-clone",
+  "version": "1.0.0",
+  "description": "一个自定义的简单深克隆库",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack",
+    "prepublish": "webpack" 
+  },
+  "keywords": [],
+  "author": "xiewenqiang",
+  "license": "ISC",
+  "devDependencies": {
+    "terser-webpack-plugin": "^1.4.1",
+    "webpack": "^4.39.2",
+    "webpack-cli": "^3.3.6"
+  }
+}
